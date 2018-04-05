@@ -1,7 +1,7 @@
 This product ("the product") is ©2018 radzo73 ("the author") all rights reserved, and is licensed for use and redistribution under the “Common Sense” non-commercial care-free license.
 
 ### IMPORTANT NOTE
-IF YOU ARE LISTED ON HERE[GitHub Pages](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/SITES.md), GO AWAY. I made this license to stop sites like you.
+IF YOU ARE LISTED ON [HERE](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/SITES.md), GO AWAY. I made this license to stop sites like you.
 
 ### Scope
 This means that you’re free to pretty much do what you like with the the code (source) or compiled binaries (jar/zip/class files), including but not limited to:
